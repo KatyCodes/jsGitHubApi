@@ -6,6 +6,7 @@ $(document).ready(function() {
   $('#button').click(function(event){
     event.preventDefault();
     var currentUser = new GitHub();
-    currentUser.getUser();
+    var userInput = $('#userInput').val();
+    currentUser.getUser(userInput);
   });
 });

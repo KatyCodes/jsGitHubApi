@@ -1,1 +1,19 @@
+//colors
+$black: black;
+$white: white;
 
+//fonts
+$font_0: Raleway;
+$font_1: sans-serif;
+$font_2: Bungee Inline;
+$font_3: cursive;
+
+body {
+	font-family: $font_0, $font_1;
+}
+.jumbotron {
+	background-color: $black;
+	font-family: $font_2, $font_3;
+	color: $white;
+	font-size: 500%;
+}
