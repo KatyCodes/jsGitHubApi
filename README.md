@@ -1,7 +1,7 @@
 # GitHub Api
 
 
-#### _A list of my GitHub repositories, Oct. 14, 2016_
+#### _A list of GitHub repositories by username, Oct. 14, 2016_
 
 #### By _**Katy Henning**_
 
